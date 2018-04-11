@@ -1,5 +1,5 @@
-# CSGOClicker
+# CheatClicker
 A CSGO based incremental game.
 Initial Release
 -------------------------------
-https://bnned.github.io/CSGOClicker/
+https://projectsoftware.github.io/CheatClicker/
