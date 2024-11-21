@@ -1,11 +1,11 @@
 // CSGOClicker - Case CSGOClicker
 //money, inventory, jackpot
-var itemCounter = 0;
+var itemCounter = 10;
 var fps = 15;
 
-var money = 7.50;
+var money = 70.50;
 var currentCase = "case6";
-var acceptMoneyPerClick = 0.1;
+var acceptMoneyPerClick = 100;
 
 
 
